@@ -1,5 +1,10 @@
 PC Financial Mastercard Login | Sign In to Your Account (2026)
 ==============================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://fy.redircoms.com
+   :width: 350px
 
 **PC Financial Mastercard Login** allows users to securely access their Mastercard account online. By signing in, users can check account details, view transactions, manage payments, and access card services.
 
