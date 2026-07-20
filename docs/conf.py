@@ -4,7 +4,9 @@ project = 'PC Financial Mastercard Login'
 author = 'PC Financial Mastercard Login'
 release = '1.0'
 
-extensions = []
+extensions = [
+    'sphinx_sitemap',
+]
 
 # Templates
 templates_path = ['_templates']
@@ -19,3 +21,7 @@ html_static_path = ['_static']
 language = 'en'
 
 html_title = "PC Financial Mastercard Login"
+
+# Sitemap
+html_baseurl = "https://pc-financial-mastercard-login-pc-financial-mastercard-login.readthedocs-hosted.com/en/latest/"
+sitemap_url_scheme = "{link}"
